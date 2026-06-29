@@ -1,7 +1,1 @@
-.vscode/*
-!.vscode/extensions.json
-node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
+Nothing needs to be added to .gitignore since only a markdown file (AGENTS.md) was added and there are no build artifacts, dependencies, or temporary files in the changes.
